@@ -6,7 +6,7 @@
 Sou Desenvolvedor com foco em desenvolvimento *Back End* e tenho como diversão o desenvolvimento Full Stack. Estou praticando bastante a criação de projetos em **NodeJS**. Com os estudos estou utilizando a plataforma Alura e Balta onde aprendi na prática o funcionamento das tecnologias de desenvolvimento web.
 
 - 👨🏻‍💻 Back-end Jr.
-- 🖥 Sysadmin
+- 🖥 Sysadmin - Linux
 - 🛠 Freelance em desenvolvimento web incluindo o wordpress e SEO
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📰 Trabalho com  Node.js, Angular, ExpressJs e MongoDB .
