@@ -5,13 +5,13 @@
 ### 😎 Francisco Gomes
 Sou Desenvolvedor com foco em *Back End* e tenho como diversão o desenvolvimento Full Stack. Estou praticando bastante a criação de projetos em **NodeJS**. Com os estudos estou utilizando a plataforma Alura e Balta onde aprendi na prática o funcionamento das tecnologias de desenvolvimento web.
 
-- 👨🏻‍💻 Back-end Jr;
+- 👨🏻‍💻 Back End;
 - 🖥 Sysadmin - Linux;
-- 🛠 Freelance em desenvolvimento web;
 - ⚙ Wordpress;
 - 📊 SEO;
 - 📰 Trabalho com  Node.js, Angular, ExpressJs e MongoDB;
 - 📡 Neste momento busco colaborar com projetos Back-end;
+- 🛠 Freelance em desenvolvimento web;
 - 🔍 Atualmente aberto a novas oportunidades.
 
 <div align="center"> 
