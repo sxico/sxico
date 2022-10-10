@@ -9,10 +9,9 @@ Sou Desenvolvedor com foco em *Back End* e tenho como diversão o desenvolviment
 - 🖥 Sysadmin - Linux;
 - ⚙ Wordpress;
 - 📊 SEO;
-- 📰 Trabalho com  Node.js, Angular, ExpressJs e MongoDB;
+- 📰 Trabalho com  Node.js, Typescript, ReactJS Angular, ExpressJs e MongoDB;
 - 📡 Neste momento busco colaborar com projetos Back-end;
-- 🛠 Freelance em desenvolvimento web;
-- 🔍 Atualmente aberto a novas oportunidades.
+- 🛠 Freelance em desenvolvimento;
 
 <div align="center"> 
 
